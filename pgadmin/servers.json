@@ -1,0 +1,16 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "testproject-postgres",
+      "Group": "TestProject",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "testproject",
+      "Username": "postgres",
+      "SSLMode": "prefer",
+      "ServerType": "pg",
+      "Version": 16,
+      "Shared": false
+    }
+  }
+}
